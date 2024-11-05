@@ -1,0 +1,17 @@
+.navbar-custom {
+    color: #3B2F2F;
+}
+
+.navbar-custom .nav-link {
+    color: #3B2F2F;
+}
+
+.navbar-custom .nav-link.active {
+    font-weight: bold;
+}
+
+.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
